@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6888a66e200fa3647a0a75ec86caeb95, type: 3}
+  m_Name: GoldenArmor
+  m_EditorClassIdentifier: 
+  _skin: {fileID: 1647867241, guid: a2a5d31ea224bdf40805139482d75865, type: 3}
+  _inventoryItem: {fileID: 7557376634140629416, guid: 276aea1f30c2df34f86a9d3fde658052, type: 3}
+  _shopItem: {fileID: 7557376634140629416, guid: dece27753d2991d429331071cdb25175, type: 3}
+  _name: Yellow Armor
+  _price: 250
+  _index: 1
+  _clothesAnimation: {fileID: 9100000, guid: 5c77f0f362665da45af4a2a13f3174ba, type: 2}
+  _acquired: 1

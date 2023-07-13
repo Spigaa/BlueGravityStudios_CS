@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6888a66e200fa3647a0a75ec86caeb95, type: 3}
+  m_Name: UnderwearM
+  m_EditorClassIdentifier: 
+  _skin: {fileID: -1155033258, guid: 5082cc0450f3db041b25ff719ce97fd9, type: 3}
+  _inventoryItem: {fileID: 4057977650983056857, guid: 484ab82294bafa544b934589071586e8, type: 3}
+  _shopItem: {fileID: 4057977650983056857, guid: 465ae0330b86f8548867bc0a4144dc26, type: 3}
+  _name: Underwear
+  _price: 50
+  _index: 0
+  _clothesAnimation: {fileID: 9100000, guid: 9f931e915ed6c1a49a7af7145abccfd6, type: 2}
+  _acquired: 1
